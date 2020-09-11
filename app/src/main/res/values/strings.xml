@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">GADSLeaderboard</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="project_on_github_link">Project on GITHUB (link)</string>
+    <string name="email_address">Email Address</string>
+    <string name="submit">Submit</string>
+    <string name="text_yes">Yes</string>
+    <string name="are_you_sure_query">Are you sure?</string>
+    <string name="submission_not_successful">Submission not Successful</string>
+    <string name="submission_successful">Submission Successful</string>
+    <string name="learning_leaders">Learning Leaders</string>
+    <string name="skill_iq_leaders">Skill IQ Leaders</string>
+    <string name="gads_background">gads_background</string>
+    <string name="google_africa_logo_description">Google Africa Logo</string>
+    <string name="project_submission_title">Project Submission</string>
+    <string name="title_and_logo_seperator">Title and Logo Seperator</string>
+    <string name="first_name_hint">First Name</string>
+    <string name="leaderboard_toolbar_text">LEADERBOARD</string>
+</resources>
